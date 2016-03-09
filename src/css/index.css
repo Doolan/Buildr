@@ -1,0 +1,14 @@
+/*Overall attributes*/
+*{
+    /*color: #FFFFFF;*/
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+#heading-underline {
+    max-width: 70px;
+    height: 5px;
+    background: #FFFFFF;
+}
